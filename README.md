@@ -1,4 +1,7 @@
 ## Hi there 👋
+AI, art, and infinite curiosity
+
+
 
 <!--
 **aibyika/aibyika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
